@@ -1,2 +1,2 @@
 # Java-projects
-Java console applications
+Java console programs
