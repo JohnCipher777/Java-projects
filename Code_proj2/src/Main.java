@@ -1,3 +1,8 @@
+/* * *
+ CODED BY   : 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺
+ FROM       : 𝐂𝐓 𝐈𝐍𝐂𝐎𝐑𝐏𝐎𝐑𝐀𝐓𝐄𝐃
+ PATCH DATE : ４/８/２３
+ * * */
 import java.io.*;
 import java.util.Objects;
 public class Main {
