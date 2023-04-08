@@ -1,7 +1,7 @@
 /* * *
- CODED BY   : MR.GHOSTSCR1PT
- FROM       : CRUTECH INCORPORATED
- PATCH DATE : 4/8/23
+ CODED BY   : 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺
+ FROM       : 𝐂𝐓 𝐈𝐍𝐂𝐎𝐑𝐏𝐎𝐑𝐀𝐓𝐄𝐃
+ PATCH DATE : ４/８/２３
  * * */
 import java.util.Scanner;
 public class Main {
