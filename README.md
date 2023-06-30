@@ -1,2 +1,2 @@
 # Java-projects
-Java console programs
+Just some basic java console programs
